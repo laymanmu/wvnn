@@ -1,0 +1,10 @@
+# common application settings for all projects:
+
+spring:
+  profiles:
+    active: dev
+  main:
+    banner-mode: off
+
+app:
+  env: dev
